@@ -9,6 +9,6 @@ int main()
 	printf("%d",t);
 	printf("%d",d);
 	printf("%d",e;)
-
-
+		printf("%d",(a+b));
+	printf("all operations executed succesfully");
 }
